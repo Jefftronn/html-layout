@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+
+html, body {
+    padding: 0;
+    margin: 0;
+    background-color: grey
+}
+
+header {
+    height: 120px;
+    width: 100%;
+    background-color: #32383F;
+    
+}
+
+
+.container {
+    background-color: white;
+    width: 800px;
+    height: 600px;
+    margin: auto 
+}
+
+
+footer {
+    background-color: black;
+    width: 800px;
+    height: 100px;
+    margin: auto;
+}

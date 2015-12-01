@@ -1,0 +1,52 @@
+* {box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #DCDCDC;
+    height: 70px;
+    width: 100%;
+}
+
+.tinybox {
+    background-color: #508DE0;
+    height: 50px;
+    width: 50px;
+    float: left;
+    margin: 10px 0px 0px 20px;
+}
+
+.whitebox {
+    background-color: white;
+    height: 120px;
+    width: 100%;
+    padding: 30px 30px 30px 30px;
+}
+
+.bluebox {
+    background-color: #4990E2;
+    height: 70px;
+    width: 100%;
+}
+
+.greenbox {
+    background-color: #4FE3C1;
+    height: 70px;
+    width: 100%;
+}
+
+.paleyellow {
+    background-color: #B9E987;
+    height: 70px;
+    width: 100%;
+}
+
+.yellow {
+    background-color: #F8E71E;
+    height: 70px;
+    width: 100%;
+}
